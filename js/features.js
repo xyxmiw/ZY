@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://img.heliar.top/file/1772885159972_silence.m4a';
+    var SRC = 'https://raw.githubusercontent.com/mylselgan/silent-blank-mp3-audio-files-ringtone/master/128kbps‑5‑minutes.m4a';
     var _audio = null;
     var _unlockBound = false;
 
